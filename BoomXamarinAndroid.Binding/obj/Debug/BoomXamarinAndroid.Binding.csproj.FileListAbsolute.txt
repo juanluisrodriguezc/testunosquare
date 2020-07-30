@@ -1,0 +1,7 @@
+C:\Users\Johnny Musysx\source\repos\BoomXamarinAndroid\BoomXamarinAndroid.Binding\bin\Debug\BoomXamarinAndroid.Binding.dll
+C:\Users\Johnny Musysx\source\repos\BoomXamarinAndroid\BoomXamarinAndroid.Binding\bin\Debug\BoomXamarinAndroid.Binding.pdb
+C:\Users\Johnny Musysx\source\repos\BoomXamarinAndroid\BoomXamarinAndroid.Binding\obj\Debug\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\Johnny Musysx\source\repos\BoomXamarinAndroid\BoomXamarinAndroid.Binding\obj\Debug\BoomXamarinAndroid.Binding.csprojAssemblyReference.cache
+C:\Users\Johnny Musysx\source\repos\BoomXamarinAndroid\BoomXamarinAndroid.Binding\obj\Debug\BoomXamarinAndroid.Binding.csproj.CoreCompileInputs.cache
+C:\Users\Johnny Musysx\source\repos\BoomXamarinAndroid\BoomXamarinAndroid.Binding\obj\Debug\BoomXamarinAndroid.Binding.dll
+C:\Users\Johnny Musysx\source\repos\BoomXamarinAndroid\BoomXamarinAndroid.Binding\obj\Debug\BoomXamarinAndroid.Binding.pdb

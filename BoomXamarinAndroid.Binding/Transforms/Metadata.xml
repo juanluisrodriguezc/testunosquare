@@ -1,0 +1,34 @@
+﻿<metadata>
+  <!--
+  This sample removes the class: android.support.v4.content.AsyncTaskLoader.LoadTask:
+  <remove-node path="/api/package[@name='android.support.v4.content']/class[@name='AsyncTaskLoader.LoadTask']" />
+  
+  This sample removes the method: android.support.v4.content.CursorLoader.loadInBackground:
+  <remove-node path="/api/package[@name='android.support.v4.content']/class[@name='CursorLoader']/method[@name='loadInBackground']" />
+  -->
+
+	<add-node path="/api/package[@name='com.nightonke.boommenu.BoomButtons']">
+		<class abstract="false" deprecated="not deprecated" final="false" name="HamButton.Builder" static="true" visibility="public" extends="java.lang.Object">
+		</class>
+		<class abstract="false" deprecated="not deprecated" final="false" name="SimpleCircleButton.Builder" static="true" visibility="public" extends="java.lang.Object">
+		</class>
+		<class abstract="false" deprecated="not deprecated" final="false" name="TextInsideCircleButton.Builder" static="true" visibility="public" extends="java.lang.Object">
+		</class>
+		<class abstract="false" deprecated="not deprecated" final="false" name="TextOutsideCircleButton.Builder" static="true" visibility="public" extends="java.lang.Object">
+		</class>
+	</add-node>
+
+	<attr path="/api/package[@name='com.nightonke.boommenu.BoomButtons']/class[@name='HamButton']/method[@name='toHighlighted' and count(parameter)=0]" name="visibility">protected</attr>
+	<attr path="/api/package[@name='com.nightonke.boommenu.BoomButtons']/class[@name='HamButton']/method[@name='toNormal' and count(parameter)=0]" name="visibility">protected</attr>
+
+	<attr path="/api/package[@name='com.nightonke.boommenu.BoomButtons']/class[@name='SimpleCircleButton']/method[@name='toHighlighted' and count(parameter)=0]" name="visibility">protected</attr>
+	<attr path="/api/package[@name='com.nightonke.boommenu.BoomButtons']/class[@name='SimpleCircleButton']/method[@name='toNormal' and count(parameter)=0]" name="visibility">protected</attr>
+
+	<attr path="/api/package[@name='com.nightonke.boommenu.BoomButtons']/class[@name='TextInsideCircleButton']/method[@name='toHighlighted' and count(parameter)=0]" name="visibility">protected</attr>
+	<attr path="/api/package[@name='com.nightonke.boommenu.BoomButtons']/class[@name='TextInsideCircleButton']/method[@name='toNormal' and count(parameter)=0]" name="visibility">protected</attr>
+
+	<attr path="/api/package[@name='com.nightonke.boommenu.BoomButtons']/class[@name='TextOutsideCircleButton']/method[@name='toHighlighted' and count(parameter)=0]" name="visibility">protected</attr>
+	<attr path="/api/package[@name='com.nightonke.boommenu.BoomButtons']/class[@name='TextOutsideCircleButton']/method[@name='toNormal' and count(parameter)=0]" name="visibility">protected</attr>
+
+
+</metadata>

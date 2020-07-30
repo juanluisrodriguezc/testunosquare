@@ -1,0 +1,53 @@
+adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
+adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+attr;C:\Users\Johnny Musysx\source\repos\BoomXamarinAndroid\BoomXamarinAndroid.App\obj\Debug\90\lp\0\jl\res\values\values.xml
+background;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
+background;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+bitmap;obj\Debug\90\res\drawable\splashscreen.xml
+bool;C:\Users\Johnny Musysx\source\repos\BoomXamarinAndroid\BoomXamarinAndroid.App\obj\Debug\90\lp\0\jl\res\values\values.xml
+cache-path;C:\Users\Johnny Musysx\source\repos\BoomXamarinAndroid\BoomXamarinAndroid.App\obj\Debug\90\lp\36\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+color;C:\Users\Johnny Musysx\source\repos\BoomXamarinAndroid\BoomXamarinAndroid.App\obj\Debug\90\lp\0\jl\res\values\values.xml
+color;obj\Debug\90\res\drawable\splashscreen.xml
+color;obj\Debug\90\res\values\colors.xml
+color;obj\Debug\90\res\values\ic_launcher_background.xml
+com.nightonke.boommenu.BMBShadow;C:\Users\Johnny Musysx\source\repos\BoomXamarinAndroid\BoomXamarinAndroid.App\obj\Debug\90\lp\0\jl\res\layout\bmb.xml
+com.nightonke.boommenu.BMBShadow;C:\Users\Johnny Musysx\source\repos\BoomXamarinAndroid\BoomXamarinAndroid.App\obj\Debug\90\lp\0\jl\res\layout\bmb_ham_button.xml
+com.nightonke.boommenu.BMBShadow;C:\Users\Johnny Musysx\source\repos\BoomXamarinAndroid\BoomXamarinAndroid.App\obj\Debug\90\lp\0\jl\res\layout\bmb_simple_circle_button.xml
+com.nightonke.boommenu.BMBShadow;C:\Users\Johnny Musysx\source\repos\BoomXamarinAndroid\BoomXamarinAndroid.App\obj\Debug\90\lp\0\jl\res\layout\bmb_text_inside_circle_button.xml
+com.nightonke.boommenu.BMBShadow;C:\Users\Johnny Musysx\source\repos\BoomXamarinAndroid\BoomXamarinAndroid.App\obj\Debug\90\lp\0\jl\res\layout\bmb_text_outside_circle_button.xml
+com.nightonke.boommenu.BMBShadow;C:\Users\Johnny Musysx\source\repos\BoomXamarinAndroid\BoomXamarinAndroid.App\obj\Debug\90\lp\0\jl\res\layout-v17\bmb.xml
+com.nightonke.boommenu.BoomMenuButton;obj\Debug\90\res\layout\activity_main.xml
+declare-styleable;C:\Users\Johnny Musysx\source\repos\BoomXamarinAndroid\BoomXamarinAndroid.App\obj\Debug\90\lp\0\jl\res\values\values.xml
+dimen;C:\Users\Johnny Musysx\source\repos\BoomXamarinAndroid\BoomXamarinAndroid.App\obj\Debug\90\lp\0\jl\res\values\values.xml
+enum;C:\Users\Johnny Musysx\source\repos\BoomXamarinAndroid\BoomXamarinAndroid.App\obj\Debug\90\lp\0\jl\res\values\values.xml
+external-cache-path;C:\Users\Johnny Musysx\source\repos\BoomXamarinAndroid\BoomXamarinAndroid.App\obj\Debug\90\lp\36\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;C:\Users\Johnny Musysx\source\repos\BoomXamarinAndroid\BoomXamarinAndroid.App\obj\Debug\90\lp\36\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+foreground;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
+foreground;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+FrameLayout;C:\Users\Johnny Musysx\source\repos\BoomXamarinAndroid\BoomXamarinAndroid.App\obj\Debug\90\lp\0\jl\res\layout\bmb.xml
+FrameLayout;C:\Users\Johnny Musysx\source\repos\BoomXamarinAndroid\BoomXamarinAndroid.App\obj\Debug\90\lp\0\jl\res\layout\bmb_ham_button.xml
+FrameLayout;C:\Users\Johnny Musysx\source\repos\BoomXamarinAndroid\BoomXamarinAndroid.App\obj\Debug\90\lp\0\jl\res\layout\bmb_simple_circle_button.xml
+FrameLayout;C:\Users\Johnny Musysx\source\repos\BoomXamarinAndroid\BoomXamarinAndroid.App\obj\Debug\90\lp\0\jl\res\layout\bmb_text_inside_circle_button.xml
+FrameLayout;C:\Users\Johnny Musysx\source\repos\BoomXamarinAndroid\BoomXamarinAndroid.App\obj\Debug\90\lp\0\jl\res\layout\bmb_text_outside_circle_button.xml
+FrameLayout;C:\Users\Johnny Musysx\source\repos\BoomXamarinAndroid\BoomXamarinAndroid.App\obj\Debug\90\lp\0\jl\res\layout-v17\bmb.xml
+integer;C:\Users\Johnny Musysx\source\repos\BoomXamarinAndroid\BoomXamarinAndroid.App\obj\Debug\90\lp\0\jl\res\values\values.xml
+item;obj\Debug\90\res\drawable\splashscreen.xml
+item;obj\Debug\90\res\values\styles.xml
+layer-list;obj\Debug\90\res\drawable\splashscreen.xml
+LinearLayout;obj\Debug\90\res\layout\activity_main.xml
+paths;C:\Users\Johnny Musysx\source\repos\BoomXamarinAndroid\BoomXamarinAndroid.App\obj\Debug\90\lp\36\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+resources;C:\Users\Johnny Musysx\source\repos\BoomXamarinAndroid\BoomXamarinAndroid.App\obj\Debug\90\lp\0\jl\res\values\values.xml
+resources;obj\Debug\90\res\values\colors.xml
+resources;obj\Debug\90\res\values\ic_launcher_background.xml
+resources;obj\Debug\90\res\values\strings.xml
+resources;obj\Debug\90\res\values\styles.xml
+shape;C:\Users\Johnny Musysx\source\repos\BoomXamarinAndroid\BoomXamarinAndroid.App\obj\Debug\90\lp\0\jl\res\drawable\piece.xml
+shape;C:\Users\Johnny Musysx\source\repos\BoomXamarinAndroid\BoomXamarinAndroid.App\obj\Debug\90\lp\0\jl\res\drawable\piece_dot.xml
+shape;C:\Users\Johnny Musysx\source\repos\BoomXamarinAndroid\BoomXamarinAndroid.App\obj\Debug\90\lp\0\jl\res\drawable\shape_oval_normal.xml
+shape;C:\Users\Johnny Musysx\source\repos\BoomXamarinAndroid\BoomXamarinAndroid.App\obj\Debug\90\lp\0\jl\res\drawable\shape_rectangle_normal.xml
+solid;C:\Users\Johnny Musysx\source\repos\BoomXamarinAndroid\BoomXamarinAndroid.App\obj\Debug\90\lp\0\jl\res\drawable\piece.xml
+solid;C:\Users\Johnny Musysx\source\repos\BoomXamarinAndroid\BoomXamarinAndroid.App\obj\Debug\90\lp\0\jl\res\drawable\piece_dot.xml
+string;C:\Users\Johnny Musysx\source\repos\BoomXamarinAndroid\BoomXamarinAndroid.App\obj\Debug\90\lp\0\jl\res\values\values.xml
+string;obj\Debug\90\res\values\strings.xml
+style;obj\Debug\90\res\values\styles.xml
+TextView;obj\Debug\90\res\layout\activity_main.xml

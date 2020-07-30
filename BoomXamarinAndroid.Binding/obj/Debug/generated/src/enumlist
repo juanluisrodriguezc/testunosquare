@@ -1,0 +1,7 @@
+com.nightonke.boommenu.Animation.BoomEnum:Com.Nightonke.Boommenu.Animation:BoomEnum
+com.nightonke.boommenu.Animation.EaseEnum:Com.Nightonke.Boommenu.Animation:EaseEnum
+com.nightonke.boommenu.Animation.OrderEnum:Com.Nightonke.Boommenu.Animation:OrderEnum
+com.nightonke.boommenu.BoomButtons.ButtonPlaceAlignmentEnum:Com.Nightonke.Boommenu.BoomButtons:ButtonPlaceAlignmentEnum
+com.nightonke.boommenu.BoomButtons.ButtonPlaceEnum:Com.Nightonke.Boommenu.BoomButtons:ButtonPlaceEnum
+com.nightonke.boommenu.ButtonEnum:Com.Nightonke.Boommenu:ButtonEnum
+com.nightonke.boommenu.Piece.PiecePlaceEnum:Com.Nightonke.Boommenu.Piece:PiecePlaceEnum

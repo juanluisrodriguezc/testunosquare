@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <DefineConstants>$(DefineConstants);ANDROID_1;ANDROID_2;ANDROID_3;ANDROID_4;ANDROID_5;ANDROID_6;ANDROID_7;ANDROID_8;ANDROID_9;ANDROID_10;ANDROID_11;ANDROID_12;ANDROID_13;ANDROID_14;ANDROID_15;ANDROID_16;ANDROID_17;ANDROID_18;ANDROID_19;ANDROID_20;ANDROID_21;ANDROID_22;ANDROID_23;ANDROID_24;ANDROID_25;ANDROID_26;ANDROID_27;ANDROID_28</DefineConstants>
+  </PropertyGroup>
+  <!-- Classes -->
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Nightonke.Boommenu.Animation.AnimationManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Nightonke.Boommenu.Animation.BoomEnum.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Nightonke.Boommenu.Animation.Ease.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Nightonke.Boommenu.Animation.EaseEnum.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Nightonke.Boommenu.Animation.HideRgbEvaluator.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Nightonke.Boommenu.Animation.OrderEnum.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Nightonke.Boommenu.Animation.Rotate3DAnimation.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Nightonke.Boommenu.Animation.ShareLinesView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Nightonke.Boommenu.Animation.ShowRgbEvaluator.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Nightonke.Boommenu.BMBShadow.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Nightonke.Boommenu.BoomButtons.BoomButton.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Nightonke.Boommenu.BoomButtons.BoomButtonBuilder.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Nightonke.Boommenu.BoomButtons.BoomButtonWithTextBuilder.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Nightonke.Boommenu.BoomButtons.ButtonPlaceAlignmentEnum.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Nightonke.Boommenu.BoomButtons.ButtonPlaceEnum.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Nightonke.Boommenu.BoomButtons.ButtonPlaceManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Nightonke.Boommenu.BoomButtons.HamButton.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Nightonke.Boommenu.BoomButtons.IInnerOnBoomButtonClickListener.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Nightonke.Boommenu.BoomButtons.IOnBMClickListener.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Nightonke.Boommenu.BoomButtons.SimpleCircleButton.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Nightonke.Boommenu.BoomButtons.TextInsideCircleButton.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Nightonke.Boommenu.BoomButtons.TextOutsideCircleButton.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Nightonke.Boommenu.BoomMenuButton.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Nightonke.Boommenu.BuildConfig.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Nightonke.Boommenu.ButtonEnum.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Nightonke.Boommenu.IOnBoomListener.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Nightonke.Boommenu.OnBoomListenerAdapter.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Nightonke.Boommenu.Piece.BoomPiece.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Nightonke.Boommenu.Piece.PiecePlaceEnum.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Nightonke.Boommenu.Piece.PiecePlaceManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Nightonke.Boommenu.Util.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Java.Interop.__TypeRegistrations.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)__NamespaceMapping__.cs" />
+  </ItemGroup>
+  <!-- Enums -->
+  <ItemGroup />
+</Project>
